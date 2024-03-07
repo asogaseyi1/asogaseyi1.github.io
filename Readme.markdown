@@ -60,6 +60,8 @@ to host it as a static website on Github pages, I initially had to download Ruby
    
    ![This is how mine turned out](resume.gif)
 
+   The above is how my resume turned out.
+
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 - [GitHub Pages Documentation](https://docs.github.com/en/pages)
